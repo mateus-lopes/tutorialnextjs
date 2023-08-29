@@ -48,5 +48,10 @@
 }
 
 .lightText {
+  color: #030303;
+}
+
+.date {
+  font-size: .6em;
   color: #666;
 }
